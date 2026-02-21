@@ -1,4 +1,4 @@
-# CPU-SCHEDULER-SIMULATION
+# cpu-scheduling-simulator
 İşletim Sistemi Zamanlayıcı ve Kaynak Simülatörü (OS Scheduler Simulator)
 Bu proje, bir işletim sisteminin çekirdeğinde yer alan CPU Zamanlama (CPU Scheduling) algoritmalarını ve paylaşılan kaynaklar için Senkronizasyon/Deadlock Yönetimi süreçlerini "tick" (adım) tabanlı olarak modelleyen bir simülatördür. C++17 standartlarına uygun olarak geliştirilmiştir.
 
